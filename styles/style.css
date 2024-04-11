@@ -453,6 +453,9 @@ body{
     }
 
     /*Planes*/
+    .planes{
+        height: 100vh;
+    }
     .boxContainerP{
         display: grid;
     }
